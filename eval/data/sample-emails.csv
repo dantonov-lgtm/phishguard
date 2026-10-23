@@ -1,0 +1,11 @@
+label,subject,body
+PHISHING,"Urgent account suspension","Verify your password immediately or your account will be closed."
+PHISHING,"Action required today","Your mailbox expires today. Update your account details within 24 hours."
+PHISHING,"Security alert","Confirm your login credentials now to restore access."
+PHISHING,"Payment failed","Enter your security code immediately to avoid account suspension."
+PHISHING,"Review document","Open this file: https://bit.ly/secure-doc"
+LEGITIMATE,"Team lunch","The team lunch is scheduled for Friday at noon."
+LEGITIMATE,"Project update","The design review moved to Tuesday. Please share your notes before the meeting."
+LEGITIMATE,"Monthly newsletter","This month we published three new articles about product accessibility."
+LEGITIMATE,"Travel receipt","Your receipt for the train ticket is attached to this message."
+LEGITIMATE,"Office notice","The office will be closed on Monday for the public holiday."
